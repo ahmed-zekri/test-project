@@ -4,6 +4,7 @@ scripts/flow/*/.flowconfig
 .flowconfig
 *~
 *.pyc
+.idea/misc.xml
 .grunt
 _SpecRunner.html
 __benchmarks__
